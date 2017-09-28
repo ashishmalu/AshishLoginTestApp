@@ -1,0 +1,8 @@
+{
+  "name": "AshishLoginTestApp",
+  "app_id": "678bb90a",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
