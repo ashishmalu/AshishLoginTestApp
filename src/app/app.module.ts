@@ -15,11 +15,11 @@ import { SplashScreen } from '@ionic-native/splash-screen';
 import { AuthProvider } from '../providers/auth-provider';
 
 export const firebaseConfig = {
-     apiKey: "AIzaSyBvdl7f13o6_OjjlhgYJImpq6gvKOl6AvY",
-     authDomain: "authenticationtest-87d6f.firebaseapp.com",
-     databaseURL: "https://authenticationtest-87d6f.firebaseio.com",
-     storageBucket: "authenticationtest-87d6f.appspot.com",
-     messagingSenderId: "656494099467"
+     apiKey: "",
+     authDomain: "",
+     databaseURL: "",
+     storageBucket: "",
+     messagingSenderId: ""
   };
 
 @NgModule({
